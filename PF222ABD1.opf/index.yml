@@ -1,0 +1,10 @@
+id: b3fd18f63ed54e1b8481a6304e8af1d2
+annotation_type: index
+revision: '00001'
+annotations:
+  4f283f15c358482d9459038113ccf417:
+    work_id: W34E45B67
+    span:
+      vol: Complete text
+      start: 0
+      end: 123
